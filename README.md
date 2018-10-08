@@ -1,5 +1,6 @@
 #Full stack reddit clone with firebase firestore react.js 
 
+![git hub ](https://github.com/thisismrsanjay/react-basic-google-authentication/blob/master/Capture.PNG)
 
 * [x] create-react-app
 * [x] create firebase project
